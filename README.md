@@ -1,4 +1,4 @@
-x# Hi, I'm Swati
+# Hi, I'm Swati
 
 B.Sc. IT Student  
 Exploring Python, Machine Learning, and Web Development  
